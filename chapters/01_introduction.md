@@ -77,11 +77,16 @@ geospatial data. You can find an up-to-date list of our workshops
 ### Animation
 
 Animated visualizations can be a great way to convey how data vary as a
-specific feature varies, especially if the feature is related to time. One
-example is the animation featured in Flowing Data's article [The Changing
+specific feature varies, especially if the feature is related to time. 
+
+One example is the animation featured in Flowing Data's article [The Changing
 American Diet][us-diet].
 
 [us-diet]: https://flowingdata.com/2016/05/17/the-changing-american-diet/
+
+Another time series example is an animation developed by Dr. Michele Tobias and the DataLab team that maps the public AB 65 data of positive COVID-19 cases on the UC Davis campus in 2020-2023. The visualization is accompanied by a narrative and a link to the code repository.
+
+[datalab-covidmap]: https://datalab.ucdavis.edu/2021/09/23/unlocking-insights-from-public-data-a-case-study-with-covid-19-exposure-data/
 
 If you know how to make static visualizations, then you know *almost*
 everything you need to know to make animated visualizations. An animation
